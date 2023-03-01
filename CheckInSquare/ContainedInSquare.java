@@ -1,3 +1,4 @@
+/*Returns all numbers under 500,000 which are contained in the digits of their square */
 public class ContainedInSquare {
     public static long check(long x, int y){
         for(int i=2;i<=y;i++){
