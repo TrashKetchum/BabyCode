@@ -1,3 +1,6 @@
+/*
+ * Allows users to encode or decode text using Caesar, Atbash, A1Z26 and Vigineres.
+ */
 import java.util.Scanner;
 public class Cyphers {
     public static String a1z26(String s){
