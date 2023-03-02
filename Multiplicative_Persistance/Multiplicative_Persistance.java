@@ -1,3 +1,6 @@
+/*
+ * Gives you the numbers with longest multiplicative persistance for their size, under the number inputted
+ */
 import java.util.*;
 public class Multiplicative_Persistance {
     public static long digitalRoot(long n){

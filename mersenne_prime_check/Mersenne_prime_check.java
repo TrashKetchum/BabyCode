@@ -1,3 +1,6 @@
+/*
+ * Returns all mersenne primes under 32bits
+ */
 public class Mersenne_prime_check {
     public static boolean isPrime(long n){
         if(n%2==0||n%3==0||n%5==0){

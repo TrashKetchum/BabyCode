@@ -1,3 +1,6 @@
+/*
+ * collates numbers using an equation
+ */
 public class SumCollation {
     public static float Sum(float a, float b){
         return (((b-a)+1)/2)*(a+b);

@@ -1,3 +1,7 @@
+/*
+ * Returns both the greatest prime under int input which contains no 7s
+ * and the ratio between the number of primes which contains no 7s and primes that do.
+ */
 import java.util.*;
 public class No_7s_Primes {
     public static boolean isPrime(long n){

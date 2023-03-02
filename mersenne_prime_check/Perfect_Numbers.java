@@ -1,3 +1,6 @@
+/*
+ * Finds perfect numbers
+ */
 public class Perfect_Numbers {
     public static boolean isPrime(int n){
         if(n%2==0||n%3==0||n%5==0){

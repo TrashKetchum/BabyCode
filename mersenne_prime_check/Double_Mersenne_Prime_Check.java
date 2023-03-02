@@ -1,3 +1,4 @@
+/*Prints out double mersenne primes under 32bits */
 public class Double_Mersenne_Prime_Check {
     public static boolean isPrime(int n){
         if(n%2==0||n%3==0||n%5==0){
